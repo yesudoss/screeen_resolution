@@ -1,0 +1,1 @@
+# screeen_resolution
